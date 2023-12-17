@@ -1,0 +1,10 @@
+body { background-color: grey; }
+h1 { background-color: blue; color: yellow; text-align: center; }
+h2 { color: greenyellow; text-align: center; }
+h3 { color: lightblue; text-align: center; }
+h4 { color: orange; text-align: center; }
+p { color: white; text-align: center; }
+#contenido {background: gray;}
+.img {width: 150px;}
+.borde1{border: 2px solid red;}
+footer { background-color: blue; color: white; }
